@@ -22,7 +22,7 @@ Teaching Assistants:
 **Shubhom Bhattacharya**, Cornell University 2020, ECE Major
 
 
-The training course is designed for prospective CDS project team applicants who want to be part of CDS but lacks fundamental backgrounds in Data Science and Machine Learning.
+The training course is designed for prospective CDS project team applicants who want to be part of CDS but lack fundamental backgrounds in Data Science and Machine Learning.
 The topics covered will include, but not be limited to:
 
 Data Manipulation, Data Visualization, Supervised Machine Learning, Unsupervised Machine Learning, Ensemble Learning
