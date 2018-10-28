@@ -5,7 +5,9 @@ Instructors:
 
 **Jared Junyoung Lim**, Cornell University 2020, CS Major
 
-**Dae Won Kim**, Cornell University M.Eng, ORIE Major
+**Abby Beeler**, Cornell University 2020, CS Major
+
+**Ethan Cohen**, Cornell University 2019, INFO SCI Major
 
 Teaching Assistants:
 
